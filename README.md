@@ -1,6 +1,5 @@
-# FlutterProjects
-Repository to store Example Flutter Projects
-
+# Flutter
+## Repository to Store Resources and Examples
 ## Resources can be found at:
 ### Install VSCode:
 #### https://code.visualstudio.com/docs/sourcecontrol/github
